@@ -3,7 +3,7 @@
 # Website settings
 title: Anna Mrukwa
 description: My personal website
-keywords: Pythom,Machine Learning, Artificial Intelligence, Data Science
+keywords: Python,Machine Learning, Artificial Intelligence, Data Science
 baseurl:   # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://amrukwa.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
@@ -19,15 +19,15 @@ author:  # change following line to your infomation.
   linkedin_id:  # Leave blank if you don't have now
   facebook_username:   # Leave blank if you don't have now
   twitter_username:   # Leave blank if you don't have now
-  email: a.mrukwa00@jarrekk.com  # Leave blank if you don't have now
+  email: a.mrukwa00@gmail.com  # Leave blank if you don't have now
   cv:   # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: icon-apache
-    - name: fa-linux
+    - name: analytics
+    - name: icon-python
   skill_icon2:
-    - name: fa-linux
-    - name: icon-apache
+    - name: icon-python
+    - name: analytics
   desc: Introduce myself will be here.  # Describe yourself.
 
 # comment
