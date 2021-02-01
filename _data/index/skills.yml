@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Python, Calculus & Algebra, R, Docker, Motivation, GitHub, Machine Learning, Statistics
-percentage: 70, 90, 65, 50, 100, 90, 50, 95
+aspects: Python, Motivation, R, Docker, Calculus & Algebra, GitHub, Machine Learning, Statistics
+percentage: 70, 100, 65, 50, 90, 90, 50, 95
