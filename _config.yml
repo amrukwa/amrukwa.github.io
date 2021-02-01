@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: icon-python
     - name: analytics
-  desc: Introduce myself will be here.  # Describe yourself.
+  desc: I am a student at Silesian University of Technology, Poland. Besides the studies, I mostly perform data analysis in projects for Healthcare connected to my university. I try to not only master the languages and technologies connected to this area, but also involve universal software solutions in my projects. I plan on continuing my Machine Learning journey while implementing good habits from other domains as well.  # Describe yourself.
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
