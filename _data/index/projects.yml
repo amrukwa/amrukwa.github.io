@@ -4,25 +4,25 @@
   img: /static/assets/img/landing/kpython1.png
   desc: I strived to follow the scikit-learn pipelines during the algorithm implementation. To make visualization possible, I also implemented PCA algorithm. I programmed different initialization methods, as well as Dunn Index to find the optimal number of clusters. To validate the results, I wrote k-cross validation.
   
-  - name: K-means in C++
+- name:  K-means in C++
   i18n: jalpc
   url: https://github.com/amrukwa/kmeans_cpp
   img: /static/assets/img/landing/kcpp.png
   desc: For this project, I started with designing the ML canvas, which helped me define the scope of the project. I implemented most of the necessary classes by myself, letting the user choose the initialization method, distance metrics, index for finding the optimal number of classes. I also implemented the PCA algorithm alongside the k-means. The whole code was consistently unit tested.
   
-  - name: Shortest Path Search
+- name: Shortest Path Search
   i18n: jalpc
   url: https://github.com/amrukwa/shortest_path
   img: /static/assets/img/landing/road.png
   desc: The project is an implementation of Dijkstra algorithm in C++. The whole program can be invoked from the command line, providing additional guidance to the user. Moreover, I automatized the unit tests, as well as releases, with the usage of custom Github Actions via workflows I prepared.
   
-  - name: Conway Game of Life
+- name: Conway Game of Life
   i18n: jalpc
   url: https://github.com/amrukwa/conway-game-of-life
   img: /static/assets/img/landing/conway.png
   desc: In this project I wrote a simple conway game of life in C. Moreover, I tried some basics of continous integration using appveyor.
 
- - name: Hangman
+- name: Hangman
   i18n: jalpc
   url: https://github.com/amrukwa/hangman
   img: /static/assets/img/landing/hangman.png
