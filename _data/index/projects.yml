@@ -1,9 +1,29 @@
-# projects section data
-# If you don't have language feature(language.yml is empty), ignore "i18n" items
-# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-# - name: Jalpc
-#   i18n: jalpc
-#   gh_user: jarrekk
-#   repo: Jalpc
-#   img: /static/assets/img/landing/jekyll.png
-#   desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+- name: K-means in Python
+  i18n: jalpc
+  url: https://github.com/amrukwa/kmeans_python
+  img: /static/assets/img/landing/kpython1.png
+  desc: I strived to follow the scikit-learn pipelines during the algorithm implementation. To make visualization possible, I also implemented PCA algorithm. I programmed different initialization methods, as well as Dunn Index to find the optimal number of clusters. To validate the results, I wrote k-cross validation.
+  
+  - name: K-means in C++
+  i18n: jalpc
+  url: https://github.com/amrukwa/kmeans_cpp
+  img: /static/assets/img/landing/kcpp.png
+  desc: For this project, I started with designing the ML canvas, which helped me define the scope of the project. I implemented most of the necessary classes by myself, letting the user choose the initialization method, distance metrics, index for finding the optimal number of classes. I also implemented the PCA algorithm alongside the k-means. The whole code was consistently unit tested.
+  
+  - name: Shortest Path Search
+  i18n: jalpc
+  url: https://github.com/amrukwa/shortest_path
+  img: /static/assets/img/landing/road.png
+  desc: The project is an implementation of Dijkstra algorithm in C++. The whole program can be invoked from the command line, providing additional guidance to the user. Moreover, I automatized the unit tests, as well as releases, with the usage of custom Github Actions via workflows I prepared.
+  
+  - name: Conway Game of Life
+  i18n: jalpc
+  url: https://github.com/amrukwa/conway-game-of-life
+  img: /static/assets/img/landing/conway.png
+  desc: In this project I wrote a simple conway game of life in C. Moreover, I tried some basics of continous integration using appveyor.
+
+ - name: Hangman
+  i18n: jalpc
+  url: https://github.com/amrukwa/hangman
+  img: /static/assets/img/landing/hangman.png
+  desc: A hangman game for both one and two players. I took care of version control and managed to make an integrated release of both program and dictionary file.
