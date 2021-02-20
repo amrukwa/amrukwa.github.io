@@ -28,3 +28,9 @@
   img: /static/assets/img/landing/road.PNG
   desc: The project is an implementation of Dijkstra algorithm in C++. The whole program can be invoked from the command line, providing additional guidance to the user. Moreover, I automatized the unit tests, as well as releases, with the usage of custom Github Actions via workflows I prepared.
   
+- name: Spam detection
+  i18n: jalpc
+  url: https://github.com/amrukwa/spam_detection
+  img: /static/assets/img/landing/message.png
+  desc: In this project I built a simple spam detection application for e-mails using a SVM model and Bag of Words. Then I deployed it with Flask and Docker.
+
