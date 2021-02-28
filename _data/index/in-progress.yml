@@ -7,8 +7,3 @@
   img: /static/assets/img/landing/cancer.jpg
   desc: This project aims to compare two treatment methods based on their Residual Cancer Burden scores. I create the shiny web application and containerise it with Dockerfile using multistage build.
 
-- name: Mask detection
-  i18n: jalpc
-  url: https://github.com/amrukwa/mask_detection
-  img: /static/assets/img/landing/mask.png
-  desc: I built a simple Random Forest Classifier checking if on the face (previously detected by openCV Cascade classifier) there is a mask, correctly placed. The program will mark the face as well as annotate the result. I will deploy the model using Flask. The package version control is conducted with the usage of poetry.
