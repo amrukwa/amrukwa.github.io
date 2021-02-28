@@ -34,7 +34,7 @@
   img: /static/assets/img/landing/message.png
   desc: In this project I built a simple spam detection application for e-mails using a SVM model and Bag of Words. Then I deployed it with Flask and Docker.
   
-  - name: Mask detection
+- name: Mask detection
   i18n: jalpc
   url: https://github.com/amrukwa/mask_detection
   img: /static/assets/img/landing/mask.png
