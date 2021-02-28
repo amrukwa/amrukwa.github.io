@@ -7,3 +7,9 @@
   img: /static/assets/img/landing/cancer.jpg
   desc: This project aims to compare two treatment methods based on their Residual Cancer Burden scores. I create the shiny web application and containerise it with Dockerfile using multistage build.
 
+- name: Enrichment analysis
+  i18n: jalpc
+  url: https://github.com/amrukwa/enrichment_playground
+  img: /static/assets/img/landing/enrichment.jpg
+  desc: I implement popular enrichment analysis methods in R. I check my results with packages such as tmod and use unit tests. To speed up permutation tests in some of the methods, I implement parallel computations.
+
