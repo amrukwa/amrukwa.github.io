@@ -17,16 +17,16 @@
 
 - name:
     detail: Silesian University of Technology
-    i18n: company_a
+    i18n: company_b
   desc:
     detail: I study at AEI Faculty, Interdisciplinary studies entailing automatic control and robotics, electronics and telecommunication, informatics. I plan to major in Data Science.
-    i18n: company_a_desc
+    i18n: company_b_desc
   date:
     detail: Oct. 2019
-    i18n: company_a_date
+    i18n: company_b_date
   job:
     detail: Bachelor studies
-    i18n: company_a_job
+    i18n: company_b_job
   icon: fa-plus-square
   present: true
 
