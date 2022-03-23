@@ -1,6 +1,21 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Cufix PL
+    i18n: company_a
+  desc:
+    detail: I work at Cufix PL. I am involved in creating solutions for object detection for autonomous vehicles as well as camera systems. We also create Polish blog on computer vision topics. You can check it out at: https://deepdrive.pl/
+    i18n: company_a_desc
+  date:
+    detail: Apr. 2021
+    i18n: company_a_date
+  job:
+    detail: Junior Deep Learning Engineer
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+
+- name:
     detail: Silesian University of Technology
     i18n: company_a
   desc:
@@ -10,7 +25,7 @@
     detail: Oct. 2019
     i18n: company_a_date
   job:
-    detail: Magister inżynier
+    detail: Bachelor studies
     i18n: company_a_job
   icon: fa-plus-square
   present: true
