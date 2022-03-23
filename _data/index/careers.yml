@@ -4,7 +4,7 @@
     detail: Cufix PL
     i18n: company_a
   desc:
-    detail: I work at Cufix PL. I am involved in creating solutions for object detection for autonomous vehicles as well as camera systems. We also create Polish blog on computer vision topics. You can check it out at: https://deepdrive.pl/
+    detail: I work at Cufix PL. I am involved in creating solutions for object detection for autonomous vehicles as well as camera systems. We also create Polish blog on computer vision topics.
     i18n: company_a_desc
   date:
     detail: Apr. 2021
