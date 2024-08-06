@@ -28,8 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: icon-python
     - name: analytics
-  desc: I am a student at Silesian University of Technology, Poland. Besides the studies, I mostly perform data analysis in projects for Healthcare connected to my university. I try to not only master the languages and technologies connected to this area, but also involve universal software solutions in my projects. I plan on continuing my Machine Learning journey while implementing good habits from other domains as well.  # Describe yourself.
-
+  desc: I am a Deep Learning Engineer with Computer Vision and a part of research team of Department of Data Science and Engineering at Silesian University of Technology. I focus on the Artificial Intelligence in Healthcare, especially on detecting cancer via several different approaches, depending on the tissue. However, I am trying to be involved in many other areas as well, hence my three year industrial work with road data processing.
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
   #name: jalpc
