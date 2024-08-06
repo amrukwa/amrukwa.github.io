@@ -5,7 +5,7 @@
   i18n: jalpc
   url: https://github.com/amrukwa/RCB_compare
   img: /static/assets/img/landing/cancer.jpg
-  desc: This project aims to compare two treatment methods based on their Residual Cancer Burden scores. I create the shiny web application and containerise it with Dockerfile using multistage build.
+  desc: This project aims to compare two treatment methods based on their Residual Cancer Burden scores. I created the shiny web application and containerised it with Dockerfile using multistage build. Right now I am the administrator of the system.
 
 - name: Enrichment analysis
   i18n: jalpc
