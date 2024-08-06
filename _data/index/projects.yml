@@ -21,15 +21,15 @@
   url: https://github.com/amrukwa/spam_detection
   img: /static/assets/img/landing/message.png
   desc: In this project I built a simple spam detection application for e-mails using a SVM model and Bag of Words. Then I deployed it with Flask and Docker.
-  
-- name: Mask detection
-  i18n: jalpc
-  url: https://github.com/amrukwa/mask_detection
-  img: /static/assets/img/landing/mask.png
-  desc: I built a simple Random Forest Classifier checking if on the face (previously detected by openCV DNN) there is a mask, correctly placed. The program marks the face as well as annotate the result. I deployed the model as Docker container with Flask. The app runs on images, as well as live stream video.
 
 - name: SAUCIE
   i18n: jalpc
   url: https://github.com/amrukwa/SAUCIE
   img: /static/assets/img/landing/autoencoder.png
   desc: This is the project I did for my Bachelor thesis. I converted the model dependencies to tensorflow 2, performed unit tests, checked results reproducibility, compared them with other popular methods via a series of Polyaxon experiments. The model is deployed using streamlit.
+
+- name: Mask detection
+  i18n: jalpc
+  url: https://github.com/amrukwa/mask_detection
+  img: /static/assets/img/landing/mask.png
+  desc: I built a simple Random Forest Classifier checking if on the face (previously detected by openCV DNN) there is a mask, correctly placed. The program marks the face as well as annotate the result. I deployed the model as Docker container with Flask. The app runs on images, as well as live stream video.
