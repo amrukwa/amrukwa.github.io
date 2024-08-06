@@ -28,7 +28,6 @@
   img: /static/assets/img/landing/mask.png
   desc: I built a simple Random Forest Classifier checking if on the face (previously detected by openCV DNN) there is a mask, correctly placed. The program marks the face as well as annotate the result. I deployed the model as Docker container with Flask. The app runs on images, as well as live stream video.
 
-
 - name: SAUCIE
   i18n: jalpc
   url: https://github.com/amrukwa/SAUCIE
