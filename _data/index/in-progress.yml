@@ -11,5 +11,5 @@
   i18n: jalpc
   url: https://github.com/amrukwa/enrichment_playground
   img: /static/assets/img/landing/enrichment.jpg
-  desc: I implement popular enrichment analysis methods in R. I check my results with packages such as tmod and use unit tests. To speed up permutation tests in some of the methods, I implement parallel computations.
-
+  desc: This is my Master thesis and the basis of some of my publications. I rewrote several SOTA Pathway Activity Scores from R and tested their compliance with the original. We introduced new GMM and k-means based thresholding methods for the heterogeneity analysis and VAE based PAS algorithm.
+  
