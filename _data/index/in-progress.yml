@@ -9,7 +9,6 @@
 
 - name: Enrichment analysis
   i18n: jalpc
-  url: https://github.com/amrukwa/enrichment_playground
+  url: https://github.com/ZAEDPolSl/enrichment-auc
   img: /static/assets/img/landing/enrichment.jpg
   desc: This is my Master thesis and the basis of some of my publications. I rewrote several SOTA Pathway Activity Scores from R and tested their compliance with the original. We introduced new GMM and k-means based thresholding methods for the heterogeneity analysis and VAE based PAS algorithm.
-  
