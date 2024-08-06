@@ -4,13 +4,13 @@
     detail: Cufix PL
     i18n: company_a
   desc:
-    detail: I work at Cufix PL. I am involved in creating solutions for object detection for autonomous vehicles as well as camera systems. We also create Polish blog on computer vision topics.
+    detail: I was promoted to the Deep Learning Engineer and continued working on the computer vision related tasks.
     i18n: company_a_desc
   date:
-    detail: Apr. 2021
+    detail: Jun. 2023
     i18n: company_a_date
   job:
-    detail: Junior Deep Learning Engineer
+    detail: Deep Learning Engineer
     i18n: company_a_job
   icon: fa-plus-square
   present: true
@@ -19,7 +19,37 @@
     detail: Silesian University of Technology
     i18n: company_b
   desc:
-    detail: I study at AEI Faculty, Interdisciplinary studies entailing automatic control and robotics, electronics and telecommunication, informatics. I plan to major in Data Science.
+    detail: I started my Master studies on Silesian University of Technologies on interdiscplinary course, called Control, Electronic and Information Technology, with the major in Data Science. This helped me broaden the knowledge I used in the projects I worked on both in my industry job and in my research.
+    i18n: company_b_desc
+  date:
+    detail: Mar. 2023
+    i18n: company_b_date
+  job:
+    detail: Master studies
+    i18n: company_b_job
+  icon: fa-plus-square
+  present: false
+
+- name:
+    detail: Cufix PL
+    i18n: company_a
+  desc:
+    detail: I started working at Cufix PL. I was involved in creating solutions for object detection for autonomous vehicles as well as camera systems. We also created Polish blog on computer vision topics.
+    i18n: company_a_desc
+  date:
+    detail: Apr. 2021
+    i18n: company_a_date
+  job:
+    detail: Junior Deep Learning Engineer
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: false
+
+- name:
+    detail: Silesian University of Technology
+    i18n: company_b
+  desc:
+    detail: I started my Bachelor studies on Silesian University of Technologies on interdiscplinary course, called Control, Electronic and Information Technology, with the major in Informatics. The studies were held in English and during that time I developed versatile skills I use to this day.
     i18n: company_b_desc
   date:
     detail: Oct. 2019
@@ -28,7 +58,7 @@
     detail: Bachelor studies
     i18n: company_b_job
   icon: fa-plus-square
-  present: true
+  present: false
 
 # - name:
 #     detail: Company B
